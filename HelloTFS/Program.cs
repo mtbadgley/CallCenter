@@ -9,7 +9,7 @@ namespace HelloTFS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Sunshine Happy People, now with proxy support!. This is another change. Isn't this great! How does this work.");
+            Console.WriteLine("Hello This is another, now with proxy support!. This is another change. Isn't this great! How does this work.");
         }
     }
 }
