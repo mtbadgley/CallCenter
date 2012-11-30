@@ -9,7 +9,7 @@ namespace HelloTFS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello TFS, now with proxy support!. This is another change. Isn't this great! How does this work.");
+            Console.WriteLine("Hello Git Now, now with proxy support!. This is another change. Isn't this great! How does this work.");
         }
     }
 }
